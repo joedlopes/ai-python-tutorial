@@ -1,2 +1,4 @@
-# ai-python-tutorial
-Introduction to Python and Artificial Intelligence algorithms in python
+# Python Tutorial: Introduction to Artificial Intelligence Algorithms
+
+- Introduction to Python and Artificial Intelligence Algorithms in Python
+
